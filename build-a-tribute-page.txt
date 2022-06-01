@@ -1,0 +1,76 @@
+** start of undefined **
+
+<!DOCTYPE html>
+<html>
+ <main id = "main">
+<head>
+  <link rel="stylesheet" href="styles.css"> 
+</head>
+<body>
+
+<h1 id = "title">Tugba Dogan</h1>
+<div id = "img-div"> 
+  <img id = "image" alt = "Tugba Dogan" src="https://d1bvpoagx8hqbg.cloudfront.net/259/b351365ab80e36eedd2bed9ce8211430.jpg">
+<figcaption id = "img-caption">Tugba Dogan works in R&D department as Project Manager currently.</figcaption>
+  </div>
+<div id = "tribute-info">
+<h3>DEGRADATION OF DICLOFENAC IN A DIELECTRIC BARRIER DISCHARGE (DBD) REACTOR WITH PHOTOCATALYTIC COATING</h3></div>
+<p>Over the past decades, there is an increasing trend of using pharmaceuticals such as drugs and personal care products result in their occurrence in the aquatic environment. Diclofenac (DCF) is one of the most widely make used of non-steroidal antiinflammatory drug (NSAID) which can be detected in wastewater bodies very frequently. Because of the longer retention time necessity in conventional biological wastewater treatment systems for the removal of diclofenac compound, other possible methods are investigated. This study aimed to investigate Advanced Oxidation Processes (AOP) in water treatment, and identify methods to increase degradation efficiency on the selected pharmaceutical compound. To increase photocatalytic activity of the system, DBD reactor was equipped with an inner aluminum electrode which has coated with TiO2. Because of its thermal, chemical and mechanical stability; titanium dioxide has been used on the surface since its high photocatalytic effect. Before applying a TiO2 on the aluminum surface of inner DBD reactor, the deposition of photoactive TiO2 thin films on glass substrates were observed. The degradation of stearic acid determination of glass samples have been monitored by using FT-IR spectroscopy with transmission method. The photocatalytic properties and degradation rate of stearic acid on surface are increasing in respect with the TiO2 coating thickness increase. In accordance with those results, the photocatalytic activity of TiO2 is determined and applied to the inner aluminum electrode of dielectric barrier discharge (DBD) reactor. Lab scaled DBD reactor was studied to degrade diclofenac in the water for two different concentrations (200 μg/L and 10 mg/L) and two different gas type (O2 and synthetic air). To measure the concentration of DCF during the degradation in plasma process was proceed by high performance liquid chromatography (HPLC) with the absorbance at 276 nm. The results showed that %100 decomposition of 200 μg/L took less than 20 seconds and 2 minutes for 20 mg/L concentration. Oxygen has been used (100 sccm) as plasma gas and 1000 mL volume has selected as sample volume. Analyze results confirmed that a synergistic effect was obtained higher degradation efficiency using DBD reactor and photocatalytic effect.</p>
+
+</body>
+  <h3>You can see more about me in my <a id = "tribute-link" href = "https://de.linkedin.com/in/tuğba-doğan-29048812" target = "_blank">Linkedin account</>.
+    </h3>
+</main>
+</html>
+
+** end of undefined **
+
+** start of undefined **
+
+#main {
+  max-width: 1280px;
+  max-height: 100%;
+  margin: 30px auto;
+  padding: 15px;
+  background-color: #dddddd;
+  border-radius: 5px;
+}
+#title {
+  text-align: center;
+}
+main > p {
+  text-align: center;
+}
+img-div {
+  width: auto;
+  height: auto;
+  max-width: 900px;
+  display: block;
+  text-align: center;
+  object-fit: fill;
+  margin: auto;
+}
+
+#image {
+  heigh: auto;
+  max-width: 100%;
+  margin: auto;
+}
+
+img {
+  display: block;
+}
+
+#tribute-info {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+#tribute-info > p {
+  text-align: center;
+  margin: 10px;
+  line-height: 30px;
+}
+
+** end of undefined **
+
